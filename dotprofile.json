@@ -1,0 +1,21 @@
+{
+  "user": "priotts",
+  "style": "terminal",
+  "variant": "solarized",
+  "language": "en",
+  "showProjects": false,
+  "tagline": { "text": "Using AI to ship bugs faster", "by": "user" },
+  "bio": "I write TypeScript, mostly NestJS backends: Discord and Telegram bots, NFT tools built on OpenSea data, a Markdown converter for HTML pages and PDFs, and tooling for Claude Code.",
+  "repos": [
+    "priotts/cc-status-line-picker",
+    "priotts/dotprofile",
+    "priotts/job-tracker",
+    "priotts/opensea-botV2",
+    "priotts/pagemd",
+    "priotts/mint-radar",
+    "priotts/onchain-agent",
+    "priotts/x",
+    "priotts/six-eyed-discoveries"
+  ],
+  "credit": true
+}

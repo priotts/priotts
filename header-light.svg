@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" viewBox="0 0 800 180" role="img" aria-label="priotts, Using AI to ship bugs faster">
+<title>priotts, Using AI to ship bugs faster</title>
+<rect x="0.5" y="0.5" width="799" height="179" rx="10" fill="#fdf6e3" stroke="#e4dcc4"/>
+<g font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-size="15">
+  <text x="24" y="40" fill="#586e75" opacity="0"><tspan fill="#859900">priotts@github:~$ </tspan><tspan opacity="0">w<set attributeName="opacity" to="1" begin="0.4s" fill="freeze"/></tspan><tspan opacity="0">h<set attributeName="opacity" to="1" begin="0.47s" fill="freeze"/></tspan><tspan opacity="0">o<set attributeName="opacity" to="1" begin="0.54s" fill="freeze"/></tspan><tspan opacity="0">a<set attributeName="opacity" to="1" begin="0.61s" fill="freeze"/></tspan><tspan opacity="0">m<set attributeName="opacity" to="1" begin="0.68s" fill="freeze"/></tspan><tspan opacity="0">i<set attributeName="opacity" to="1" begin="0.75s" fill="freeze"/></tspan><set attributeName="opacity" to="1" begin="0.1s" fill="freeze"/></text>
+  <text x="24" y="66" xml:space="preserve" fill="#b58900" font-weight="bold" opacity="0">priotts<set attributeName="opacity" to="1" begin="1.12s" fill="freeze"/></text>
+  <text x="24" y="92" xml:space="preserve" fill="#586e75" opacity="0">Using AI to ship bugs faster<set attributeName="opacity" to="1" begin="1.12s" fill="freeze"/></text>
+  <text x="24" y="118" opacity="0"><tspan fill="#859900">priotts@github:~$ </tspan><tspan fill="#586e75">█<animate attributeName="opacity" values="1;0;1" dur="1s" begin="1.62s" repeatCount="4" fill="freeze"/></tspan><set attributeName="opacity" to="1" begin="1.62s" fill="freeze"/></text>
+  <path d="M0.5 150 H799.5 V169.5 a10 10 0 0 1 -10 10 H10.5 a10 10 0 0 1 -10 -10 Z" fill="#eee8d5"/>
+  <text x="16" y="170" font-size="13"><tspan fill="#859900" font-weight="bold">[priotts]</tspan><tspan fill="#93a1a1"> 0:profile*</tspan></text>
+  <text x="784" y="170" font-size="13" text-anchor="end" fill="#93a1a1">9 projects · TypeScript 87.9% · Italy</text>
+</g>
+</svg>

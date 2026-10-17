@@ -1,16 +1,31 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <img alt="priotts" src="header-light.svg">
+</picture>
 
-<!--
-**priotts/priotts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `$ whoami`
 
-Here are some ideas to get you started:
+I write TypeScript, mostly NestJS backends: Discord and Telegram bots, NFT tools built on OpenSea data, a Markdown converter for HTML pages and PDFs, and tooling for Claude Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Italy
+
+### `$ tree stack/`
+
+```text
+stack/
+├── languages/
+│   ├── TypeScript   87.9%
+│   ├── JavaScript   11.5%
+│   ├── HTML          0.4%
+│   ├── Shell         0.1%
+│   ├── Dockerfile    0.0%
+│   └── CSS           0.0%
+├── frameworks/
+│   └── NestJS
+└── tooling/
+    ├── tests: 6 of 9
+    ├── CI: 6 of 9
+    └── container: 2 of 9
+```
+
+<sub>Generated with [dotprofile](https://github.com/priotts/dotprofile-skill) from facts read from my repositories.</sub>
