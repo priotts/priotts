@@ -1,7 +1,7 @@
 {
   "user": "priotts",
   "style": "terminal",
-  "variant": "solarized",
+  "variant": "github",
   "language": "en",
   "showProjects": false,
   "tagline": { "text": "Using AI to ship bugs faster", "by": "user" },
@@ -17,5 +17,7 @@
     "priotts/x",
     "priotts/six-eyed-discoveries"
   ],
+  "stack": "all",
+  "tooling": false,
   "credit": true
 }
